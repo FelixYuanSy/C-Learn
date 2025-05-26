@@ -1,0 +1,166 @@
+﻿  Test.cpp
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(102,9): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(102,9):
+      the template instantiation context (the oldest one first) is
+          D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(20,8):
+          while compiling class template 'hash_bucket::HashTable'
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(102,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(102,24): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(39,31): error C3861: 'lower_bound': identifier not found
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(39,42):
+      'lower_bound': function declaration must be available as none of the arguments depend on a template parameter
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(46,4): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(46,36): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(46,4): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(46,36): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(50,27): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(50,27): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(52,17): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(59,5): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(52,17): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(59,5): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(66,29): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(67,16): error C3861: '_tables': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(66,29): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(67,16): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(85,35): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(87,14): error C2065: '_tables': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,5): error C2065: 'vector': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,16): error C3878: syntax error: unexpected token '*' following 'simple-type-specifier'
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,16):
+      missing one of: ( { ?
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,16): error C3878: syntax error: unexpected token '*' following 'expression'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,16): message : error recovery skipped: '* > identifier  . . . identifier'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C2760: syntax error: ')' was unexpected here; expected ';'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C3878: syntax error: unexpected token ')' following 'expression-statement'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C3878: syntax error: unexpected token ')' following 'statement'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C3878: syntax error: unexpected token ')' following 'statement-seq'
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61):
+      missing one of:  '}' ?
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C2760: syntax error: ')' was unexpected here; expected '}'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C3878: syntax error: unexpected token ')' following 'compound-statement'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): error C3878: syntax error: unexpected token ')' following 'selection-statement'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(90,61): message : error recovery skipped: ') )'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(112,4): error C3878: syntax error: unexpected token 'vbvcb' following 'expression'
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(112,4):
+      the template instantiation context (the oldest one first) is
+          D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(107,8):
+          while compiling class template 'HashFunc'
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(112,4): message : error recovery skipped: 'identifier'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(12,18): error C2061: syntax error: identifier 'pair'
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(12,18):
+      the template instantiation context (the oldest one first) is
+          D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(8,8):
+          while compiling class template 'bit::unoredered_map'
+          D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(10,10):
+          while compiling class 'bit::unoredered_map<K,V,Hash>::MapKeyOfT'
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(18,15): error C2061: syntax error: identifier 'pair'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(23,29): error C2065: 'pair': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(23,16): error C2974: 'hash_bucket::HashTable': invalid template argument for 'T', type expected
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(20,8):
+      see declaration of 'hash_bucket::HashTable'
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(23,16): error C2976: 'hash_bucket::HashTable': too few template arguments
+  (compiling source file 'Test.cpp')
+      D:\CodeRepos\StudyHashTable\StudyHashTable\HashTable.h(20,8):
+      see declaration of 'hash_bucket::HashTable'
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(23,39): error C2059: syntax error: ','
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(23,61): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(14,12): error C3861: 'kv': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(14,12): error C2065: 'kv': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(20,11): error C3861: '_ht': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(20,22): error C3861: 'kv': identifier not found
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(20,11): error C2065: '_ht': undeclared identifier
+  (compiling source file 'Test.cpp')
+  
+D:\CodeRepos\StudyHashTable\StudyHashTable\MyUnorderedMap.h(20,22): error C2065: 'kv': undeclared identifier
+  (compiling source file 'Test.cpp')
+  

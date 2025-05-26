@@ -1,0 +1,12 @@
+﻿  FileName.cpp
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:         with
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:         [
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:             _Ty=int
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:         ]
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(71,10): error C2001: newline in constant
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(72,2): error C2146: syntax error: missing ';' before identifier 'cout'
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(72,10): error C2001: newline in constant
+D:\CodeRepos\falseTest\falseTest\FileName.cpp(74,2): error C2146: syntax error: missing ';' before identifier 'size_t'
