@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\CodeRepos\\falseTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|D:\\CodeRepos\\falseTest\\falseTest\\MyUnorderedMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|solutionrelative:falseTest\\MyUnorderedMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|D:\\CodeRepos\\falseTest\\falseTest\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|solutionrelative:falseTest\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|D:\\CodeRepos\\falseTest\\falseTest\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|solutionrelative:falseTest\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|D:\\CodeRepos\\falseTest\\falseTest\\MyUnorderedMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|solutionrelative:falseTest\\MyUnorderedMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82A2ED4A-AFC5-47DB-ABDC-055AED23F0EA}|falseTest\\falseTest.vcxproj|D:\\CodeRepos\\falseTest\\falseTest\\MyUnOrderedSet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,54 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyUnorderedMap.h",
-              "DocumentMoniker": "D:\\CodeRepos\\falseTest\\falseTest\\MyUnorderedMap.h",
-              "RelativeDocumentMoniker": "falseTest\\MyUnorderedMap.h",
-              "ToolTip": "D:\\CodeRepos\\falseTest\\falseTest\\MyUnorderedMap.h",
-              "RelativeToolTip": "falseTest\\MyUnorderedMap.h",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-26T22:27:13.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MyUnOrderedSet.h",
               "DocumentMoniker": "D:\\CodeRepos\\falseTest\\falseTest\\MyUnOrderedSet.h",
               "RelativeDocumentMoniker": "falseTest\\MyUnOrderedSet.h",
               "ToolTip": "D:\\CodeRepos\\falseTest\\falseTest\\MyUnOrderedSet.h",
               "RelativeToolTip": "falseTest\\MyUnOrderedSet.h",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAAEEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-26T22:53:14.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HashTable.h",
               "DocumentMoniker": "D:\\CodeRepos\\falseTest\\falseTest\\HashTable.h",
               "RelativeDocumentMoniker": "falseTest\\HashTable.h",
               "ToolTip": "D:\\CodeRepos\\falseTest\\falseTest\\HashTable.h",
               "RelativeToolTip": "falseTest\\HashTable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAAAI8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-26T22:27:18.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FileName.cpp",
               "DocumentMoniker": "D:\\CodeRepos\\falseTest\\falseTest\\FileName.cpp",
               "RelativeDocumentMoniker": "falseTest\\FileName.cpp",
               "ToolTip": "D:\\CodeRepos\\falseTest\\falseTest\\FileName.cpp",
               "RelativeToolTip": "falseTest\\FileName.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-26T22:17:50.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyUnorderedMap.h",
+              "DocumentMoniker": "D:\\CodeRepos\\falseTest\\falseTest\\MyUnorderedMap.h",
+              "RelativeDocumentMoniker": "falseTest\\MyUnorderedMap.h",
+              "ToolTip": "D:\\CodeRepos\\falseTest\\falseTest\\MyUnorderedMap.h",
+              "RelativeToolTip": "falseTest\\MyUnorderedMap.h",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T22:27:13.626Z",
               "EditorCaption": ""
             }
           ]

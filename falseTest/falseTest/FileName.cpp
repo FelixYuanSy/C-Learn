@@ -69,7 +69,7 @@ int test_set2()
 	size_t end4 = clock();
 	cout << "unorered_set find:" << end4 - begin4 << "->" << m2 << endl;
 	cout << "插入数据个数：" << s.size() << endl;
-	cout << "插入数据个数：" << us.size() << endl << endl;
+	//cout << "插入数据个数：" << us.size() << endl << endl;
 
 	size_t begin5 = clock();
 	for (auto e : v)

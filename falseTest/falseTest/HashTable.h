@@ -123,8 +123,6 @@ namespace hash_bucket
 		}
 	};
 
-	// hash_bucket::HashTable<K, pair<K, V>, MapKeyOfT> _ht; ->map
-	// hash_bucket::HashTable<K, K, SetKeyOfT> _ht; ->set
 	template<class K, class T, class KeyOfT, class Hash>
 	class HashTable
 	{
@@ -137,7 +135,7 @@ namespace hash_bucket
 		typedef __HTIterator<K, T, const T&, const T*, KeyOfT, Hash> ConstIterator;
 
 
-		Iterator Begin()
+		Iterator Begin() //从第一个数据节点开始
 		{
 			for (size_t i = 0; i < _tables.size(); i++)
 			{

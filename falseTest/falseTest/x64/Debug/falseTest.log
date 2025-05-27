@@ -7,6 +7,4 @@ D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:         [
 D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:             _Ty=int
 D:\CodeRepos\falseTest\falseTest\FileName.cpp(24,22): warning C4267:         ]
 D:\CodeRepos\falseTest\falseTest\FileName.cpp(71,10): error C2001: newline in constant
-D:\CodeRepos\falseTest\falseTest\FileName.cpp(72,2): error C2146: syntax error: missing ';' before identifier 'cout'
-D:\CodeRepos\falseTest\falseTest\FileName.cpp(72,10): error C2001: newline in constant
 D:\CodeRepos\falseTest\falseTest\FileName.cpp(74,2): error C2146: syntax error: missing ';' before identifier 'size_t'
