@@ -1,0 +1,81 @@
+
+# =========================
+# Visual Studio 2022 + C++
+# =========================
+
+# 构建输出目录
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.lib
+*.app
+*.pdb
+*.ipch
+*.iobj
+*.log
+
+# Visual Studio 用户设置和缓存
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.VC.db
+*.VC.opendb
+*.ncb
+*.opensdf
+*.cache
+*.tlog
+*.idb
+*.ilk
+
+# CMake生成文件（如果你用CMake）
+CMakeLists.txt.user
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+build/
+compile_commands.json
+
+# VS 工程自动生成内容
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.aps
+*.vspscc
+*.vssscc
+*.vssscc
+*.scc
+*.pfx
+*.publishsettings
+*.psess
+*.vsp
+*.vsmdi
+
+# vcpkg 包管理器（如果你使用它）
+vcpkg_installed/
+.vcpkg-root
+
+# Test/coverage 工具文件
+*.gcno
+*.gcda
+*.gcov
+
+# 临时文件 / 编辑器缓存
+*~
+*.swp
+*.tmp
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# VS 本地工作区设置
+.vs/
+
+# 不要忽略项目文件和解决方案
+!*.sln
+!*.vcxproj
+!*.vcxproj.filters
+!*.vcxproj.user
