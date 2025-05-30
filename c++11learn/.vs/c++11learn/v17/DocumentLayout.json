@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CodeRepos\\c\u002B\u002B11learn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\Match L_R_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\perfectForwarding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\perfectForwarding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Later life cycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\Later life cycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\Match L_R_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\L_value and R_value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "perfectForwarding.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\perfectForwarding.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B11learn\\perfectForwarding.cpp",
+              "ToolTip": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\perfectForwarding.cpp",
+              "RelativeToolTip": "c\u002B\u002B11learn\\perfectForwarding.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T03:55:41.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Match L_R_reference.cpp",
               "DocumentMoniker": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp",
               "RelativeDocumentMoniker": "c\u002B\u002B11learn\\Match L_R_reference.cpp",
               "ToolTip": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp",
               "RelativeToolTip": "c\u002B\u002B11learn\\Match L_R_reference.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-30T02:42:08.232Z",
               "EditorCaption": ""
@@ -45,14 +62,14 @@
               "RelativeDocumentMoniker": "c\u002B\u002B11learn\\Later life cycle.cpp",
               "ToolTip": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Later life cycle.cpp",
               "RelativeToolTip": "c\u002B\u002B11learn\\Later life cycle.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-30T01:42:55.386Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "L_value and R_value.cpp",
               "DocumentMoniker": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\L_value and R_value.cpp",
               "RelativeDocumentMoniker": "c\u002B\u002B11learn\\L_value and R_value.cpp",

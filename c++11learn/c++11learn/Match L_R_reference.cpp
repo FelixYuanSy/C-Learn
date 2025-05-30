@@ -14,7 +14,7 @@ void f(int&& x)
 	cout << "Rvalue overload f(" << x << ")" << endl;
 }
 
-int main()
+int main3()
 {
 	int i = 0;
 	const int i1 = 10;

@@ -130,6 +130,7 @@
     <ClCompile Include="Later life cycle.cpp" />
     <ClCompile Include="L_value and R_value.cpp" />
     <ClCompile Include="Match L_R_reference.cpp" />
+    <ClCompile Include="perfectForwarding.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
