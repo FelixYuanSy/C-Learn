@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeRepos\\c\u002B\u002B11learn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\Match L_R_reference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Later life cycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\Later life cycle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\L_value and R_value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{366F6E26-5B71-45FF-87BF-A2521FCBB2DA}|c\u002B\u002B11learn\\c\u002B\u002B11learn.vcxproj|solutionrelative:c\u002B\u002B11learn\\L_value and R_value.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Match L_R_reference.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B11learn\\Match L_R_reference.cpp",
+              "ToolTip": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Match L_R_reference.cpp",
+              "RelativeToolTip": "c\u002B\u002B11learn\\Match L_R_reference.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T02:42:08.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Later life cycle.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Later life cycle.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B11learn\\Later life cycle.cpp",
+              "ToolTip": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\Later life cycle.cpp",
+              "RelativeToolTip": "c\u002B\u002B11learn\\Later life cycle.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T01:42:55.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "L_value and R_value.cpp",
+              "DocumentMoniker": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\L_value and R_value.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B11learn\\L_value and R_value.cpp",
+              "ToolTip": "D:\\CodeRepos\\c\u002B\u002B11learn\\c\u002B\u002B11learn\\L_value and R_value.cpp",
+              "RelativeToolTip": "c\u002B\u002B11learn\\L_value and R_value.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-30T00:03:48.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
